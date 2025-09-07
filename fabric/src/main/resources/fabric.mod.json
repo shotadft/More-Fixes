@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "more_fixes",
+  "version": "${version}",
+  "name": "More Fixes",
+  "description": "I'll fix bugs that don't bother me but still bother me.",
+  "authors": [
+    "Shotadft"
+  ],
+  "contact": {
+  },
+  "license": "MIT",
+  "icon": "assets/more_fixes/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com.shotadft.more_fixes.fabric.MoreFixesFabric"
+    ],
+    "client": [
+      "com.shotadft.more_fixes.fabric.client.MoreFixesFabricClient"
+    ]
+  },
+  "mixins": [
+    "more_fixes.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.17.2",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "architectury": ">=13.0.8",
+    "fabric-api": "*"
+  }
+}
