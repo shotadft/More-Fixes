@@ -11,7 +11,7 @@ authors = "Shotadft"
 description = '''
 I'll fix bugs that don't bother me but still bother me.
 '''
-#logoFile = ""
+logoFile = "icon.png"
 
 [[dependencies.more_fixes]]
 modId = "neoforge"
