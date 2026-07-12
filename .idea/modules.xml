@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/more_fixes.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/more_fixes.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/more_fixes.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/more_fixes.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/more_fixes.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/more_fixes.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/more_fixes.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/more_fixes.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/more_fixes.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/more_fixes.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/more_fixes.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/more_fixes.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/more_fixes.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/more_fixes.neoforge.test.iml" />
+    </modules>
+  </component>
+</project>
